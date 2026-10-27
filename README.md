@@ -24,7 +24,13 @@ I'm currently looking for IT / digital operations roles in Europe
   tasks (license reports, device compliance, onboarding, stale devices)
 - **it-operations-dashboard**: a lightweight web dashboard for helpdesk tickets,
   asset inventory and device compliance
+- **azure-cloud-operations**: Azure infrastructure templates (Bicep and ARM) and
+  automation scripts for resource inventory, cost reporting, VM scheduling and tag compliance
+- **it-management-playbook**: IT management playbooks and templates for user onboarding,
+  incident and change management, patching, vendors and monthly reporting
 - **it-asset-excel-system**: an Excel-based asset and helpdesk tracker, generated with Python
+- **excel-it-budget-sla-tracker**: an Excel IT budget and SLA reporting tracker,
+  generated with Python
 
 ## Education and certifications
 
