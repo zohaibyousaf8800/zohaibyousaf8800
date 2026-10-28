@@ -31,6 +31,10 @@ I'm currently looking for IT / digital operations roles in Europe
 - **it-asset-excel-system**: an Excel-based asset and helpdesk tracker, generated with Python
 - **excel-it-budget-sla-tracker**: an Excel IT budget and SLA reporting tracker,
   generated with Python
+- **helpdesk-ticket-api**: a Python (Flask) REST API for IT helpdesk ticketing with an
+  SLA tracking engine, automatic ticket assignment and reporting
+- **infra-uptime-monitor**: a Python (Flask) monitoring service that checks servers and
+  websites on a schedule, records incidents and serves a live status page
 
 ## Education and certifications
 
